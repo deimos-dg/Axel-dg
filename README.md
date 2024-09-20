@@ -1,0 +1,4 @@
+- 👋 Hello, I'm Axel Díaz
+- 👀 I am interested in programming and cybersecurity, especially red team
+- 🌱 I am currently learning pentesting, NMAP
+- 💞️ I am looking to collaborate in a company, in the area of ​​cybersecurity
